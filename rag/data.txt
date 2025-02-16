@@ -1,0 +1,34 @@
+Company	Potential Referrers
+Yellow.ai	Prachi Yadav
+UKG	Somnath Verma
+OTT BHARAT	SHREYANSH TRIPATHI
+BNY MELLON	SHIPRA SRIVASTAVA
+Cisco	Aditya Kaushik, Abhinanda Vyas, Avanish Kumar
+Thales	-
+Barclays	Akshat Sachan
+MasterCard	Joy Almeida, Athul Albert
+Morgan Stanley	Umang Mehta
+Ericsson	Safarudin
+Stripe	-
+Blackrock	Priyam Gupta, Lovish
+Gainsight	Sumit
+Snapdeal	Tapan, Abhinav, Nayan
+Atlassian	Ankit, Naveen Kumar, Vaibhav Singhal
+PayPal	Saurabh, Shubham
+Oracle	Kartikey, Mahesh, Praveen
+Wabtec	Aryan
+Idemia	Shivani
+Phone Pe	Vandana
+LTI	KANHIYA
+Autodesk	Amol, Abhishek, Rohit
+Ecolab	Yash
+Walmart	-
+Alcon	-
+Moody	-
+EY	-
+Lseg	-
+Ksolves	-
+Zomato	Akash
+Trellix	Shreyans
+Volkswagen	-
+Consultadd	Ashutosh Dube
