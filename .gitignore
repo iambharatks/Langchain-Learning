@@ -5,6 +5,8 @@ __pycache__/
 
 # Ignore virtual environment directories
 venv/
+
+#ignore env file
 .env
 
 # Ignore IDE/project files (optional)
